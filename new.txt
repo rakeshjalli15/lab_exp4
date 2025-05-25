@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 i am rakesh
 aiml student
+=======
+this is rakesh
+3rd year aiml
+>>>>>>> fb
